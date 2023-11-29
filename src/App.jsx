@@ -21,7 +21,8 @@
 
 
 import './App.css'
-import CardContainer from './components/CardContainer'
+import Footer from './pages/Footer'
+import Main from './pages/Main'
 import Nav from './pages/Nav'
 
 const App = () =>{
@@ -29,9 +30,8 @@ const App = () =>{
   return (
     <div>
       <Nav />
-      <CardContainer />
-      <CardContainer />
-      <CardContainer />
+      <Main />
+      <Footer />
     </div>
   )
 }
