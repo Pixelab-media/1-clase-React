@@ -1,8 +1,5 @@
-# React + Vite
+Ejercicio, realizar en ./pages/Main.jsx
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+un componente donde se importen el componente CardContainer.jsx
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Luego importar en App.jsx Main.jsx
